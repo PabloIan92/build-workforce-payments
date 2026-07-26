@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal y Pagos"
+  short_description: "Diseña control seguro de personal y pagos"
+  default_prompt: "Usa $build-workforce-payments para diseñar o mejorar un sistema genérico de personal y pagos."
